@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: 0b7f7c5e48d346741822a3121a7984fd
+ModelImporter:
+  serializedVersion: 25
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: coisa-fofa(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Icosphere.002
+      parentName: coisa-fofa(Clone)
+      position: {x: 0.03476584, y: 0.9569564, z: -1.2123492}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 39.16771, y: 39.16771, z: 39.16771}
+    - name: Icosphere.004
+      parentName: Icosphere.002
+      position: {x: 0.00008613139, y: -0.0041013504, z: -0.0032473826}
+      rotation: {x: -0.0021744, y: 0.026141798, z: 0.9929627, w: 0.11548544}
+      scale: {x: 0.3777323, y: 0.3777321, z: 0.37773225}
+    - name: Icosphere.005
+      parentName: Icosphere.002
+      position: {x: 0.00016089193, y: 0.0026375316, z: -0.0033554125}
+      rotation: {x: -0.012194341, y: -0.042088736, z: 0.992303, w: 0.11582164}
+      scale: {x: 0.3777323, y: 0.37773213, z: 0.3777323}
+    - name: Icosphere.003
+      parentName: Icosphere.002
+      position: {x: 0.0018802729, y: 0.002704408, z: 0.0014141273}
+      rotation: {x: 0.089170545, y: 0.7592118, z: -0.6419964, w: -0.059048664}
+      scale: {x: 0.38207498, y: 0.38207474, z: 0.3820748}
+    - name: Icosphere.001
+      parentName: Icosphere.002
+      position: {x: -0.00008937776, y: -0.003684044, z: 0.0015689253}
+      rotation: {x: -0.7446691, y: 0.086683124, z: -0.061526544, w: 0.6589146}
+      scale: {x: 0.41649857, y: 0.41649833, z: 0.41649833}
+    - name: Icosphere
+      parentName: Icosphere.002
+      position: {x: -0.0064135925, y: 0.0027069615, z: 0.0053767776}
+      rotation: {x: 0.11252127, y: 0.6980968, z: 0.6980966, w: 0.11252113}
+      scale: {x: 1.5624491, y: 1.5624491, z: 1.5624489}
+    - name: Lamp
+      parentName: coisa-fofa(Clone)
+      position: {x: -4.0762453, y: 5.806663, z: -1.005454}
+      rotation: {x: 0.52327543, y: -0.34203398, z: 0.72694236, w: 0.28416628}
+      scale: {x: 100.00001, y: 100, z: 100}
+    - name: Camera
+      parentName: coisa-fofa(Clone)
+      position: {x: -7.4811316, y: 5.246466, z: 6.5076394}
+      rotation: {x: 0.0906284, y: 0.8937962, z: -0.20997299, w: 0.38577998}
+      scale: {x: 100, y: 100.00001, z: 99.99999}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: Camera
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
